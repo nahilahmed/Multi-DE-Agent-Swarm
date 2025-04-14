@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+
+# AutoGen temp files
+tmp_code_*
+
+# Env Variables
+.env
+
+# Mac
+.DS_Store

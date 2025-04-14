@@ -1,0 +1,8 @@
+autogen-agentchat>=0.4.0
+autogen-ext[openai]>=0.4.0
+autogen-ext[openai,web-surfer]
+autogen-ext[docker]
+python-dotenv>=1.0.0 
+pandas
+sqlalchemy
+psycopg2-binary>=2.9.9

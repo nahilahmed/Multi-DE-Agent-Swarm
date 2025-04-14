@@ -1,0 +1,8 @@
+Product Name,Quantity,Price,Sale Date
+Apple,10,100.0,2024-01-01
+Banana,5,,2024-01-02
+Orange,abc,150.0,2024/01/03
+,20,200.0,2024-01-04
+Grapes,15,120.0,InvalidDate
+Mango,12,130.0,2024-01-06
+Apple,,110.0,2024-01-07
