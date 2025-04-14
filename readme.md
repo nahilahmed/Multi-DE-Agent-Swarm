@@ -85,8 +85,8 @@ Fully autonomous. No micro-managing.
 ## Setup & Run locally
 
 ```bash
-git clone <this-repo>
-cd <repo>
+git clone https://github.com/nahilahmed/Multi-DE-Agent-Swarm.git
+cd Multi-DE-Agent-Swarm
 
 cp .env.example .env
 # Fill your postgres creds in .env
