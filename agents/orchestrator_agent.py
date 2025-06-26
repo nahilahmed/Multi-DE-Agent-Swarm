@@ -28,6 +28,7 @@ class OrchestratorAgent:
 
         if not validation_result["is_valid"]:
             print("Data Validation Failed. Stopping pipeline.")
+            return
         
         print("Orchestrator: Asking Loader Agent to load data into Postgres...")
         load_result = self.loader.load_data(cleaned_data)
